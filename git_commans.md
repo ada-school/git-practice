@@ -6,16 +6,16 @@ git clone: Lo que hace es clonar codigos de un repositorio externo
 
 git pull: Descarga contenido desde un repositorio remoto
 
-git checkout:
+git checkout: Nos traslada a otra rama      
 
-git log:
+git log: Nos permite ver el historial de todos los commits que hay en el repertorio
 
-git branch:
+git branch: Para crear una nueva rama               
 
-git add:
+git add: Agrega archivos que no son trackeados por git
 
-git commit:
+git commit: Para agregar asignaciones y agregar estas asignaciones al repertorio    
 
-git push:
+git push: Para cargar contenido del repositorio local a un repositorio remoto   
 
-git merge:
+git merge: Toma lineas de desarrollo y las integra en una sola rama
