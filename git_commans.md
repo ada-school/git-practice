@@ -1,21 +1,21 @@
 Describe que hacen los siguientes comandos de git, escribe su descripcion al frente en una sola linea.
 
-git status: Este comando se usa para obtener el estado actual del repositorio
+`git status`: Este comando se usa para obtener el estado actual del repositorio
 
-git clone: Este comando se usa para obtener el estado actual del repositorio
+`git clone`:
 
-git pull: Sirve para descargar el codigo
+`git pull`:
 
-git checkout: Sirve para cambiar de rama
+`git checkout`:
 
-git log: Sirve para ver el historial del commmit
+`git log`:
 
-git branch: Para crear una rama
+`git branch`:
 
-git add: Sirve para agregar datos al staging
+`git add`:
 
-git commit: Agregar archivos al repositorio
+`git commit`:
 
-git push: Sirve para subir el codigo al repositorio 
+`git push`:
 
-git merge: Sirve para unir ramas
+`git merge`:
