@@ -18,4 +18,4 @@ Describe que hacen los siguientes comandos de git, escribe su descripcion al fre
 
 `git push`: 
 
-`git merge``: 
+`git merge`: 
