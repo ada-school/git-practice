@@ -16,7 +16,8 @@ git add: Este comando agrega un cambio al área de preparación
 
 git commit: Este comando se utiliza para guardar cualquier cambio realizando en el repositorio local
 
-
 git push: Sube el contenido del repositorio local a el repositorio local
 
 git merge: Este comando se usa para mezclar  una o más ramas dentro de la rama que ya se tiene.
+
+
